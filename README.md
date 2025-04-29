@@ -1,0 +1,1 @@
+Oyun kayıtları üzerinde ListView ve DataGridView ile işlem yapılabilen bir C# projesidir. Maksimum, minimum fiyat bulma, sıralama ve top 5 listeleme özellikleri içerir. Eğlenceli bir arayüzle kullanıcı dostu bir veri yönetimi sunar.
